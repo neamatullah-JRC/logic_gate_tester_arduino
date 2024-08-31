@@ -4,5 +4,7 @@
 ![image](https://github.com/user-attachments/assets/544982c5-ec79-4e4a-8f45-1f8d59c1c913)
 we use this 2 pinout when we start this project
 
+Truth Table 
+![image](https://github.com/user-attachments/assets/9cbb0221-a6a5-4d19-b774-6878f43899b0)
 
 Scametic 
