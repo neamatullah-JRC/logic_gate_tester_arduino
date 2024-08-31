@@ -1,7 +1,8 @@
 # logic_gate_tester_arduino
 
-![image](https://github.com/user-attachments/assets/a633c458-c379-4d3f-9455-9e5e5342fdd6)
-![image](https://github.com/user-attachments/assets/544982c5-ec79-4e4a-8f45-1f8d59c1c913)
+![image](https://github.com/user-attachments/assets/c358d768-0718-45e7-a8d9-5a4b6dec2dd2)
+![image](https://github.com/user-attachments/assets/daf384f0-7f29-4a3e-b9ef-647ba30f5543)
+
 we use this 2 pinout when we start this project
 
 Truth Table 
