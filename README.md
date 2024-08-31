@@ -9,4 +9,4 @@ Truth Table
 ![image](https://github.com/user-attachments/assets/9cbb0221-a6a5-4d19-b774-6878f43899b0)
 
 Scametic 
-[embed]https://github.com/neamatullah-JRC/logic_gate_tester_arduino/blob/main/IC%20TESTER%20(1).pdf[/embed]
+![embed]https://github.com/neamatullah-JRC/logic_gate_tester_arduino/blob/main/IC%20TESTER%20(1).pdf
